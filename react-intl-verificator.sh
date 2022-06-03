@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # react-intl-verificator:
-# verifiy the status of the using of the react-intl module in the code.
-#
+# Verifiy the status of the using of the react-intl module in the code.
 # Copyright (C) 2022 David Waster
 
 # This program is free software: you can redistribute it and/or modify
